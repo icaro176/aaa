@@ -165,4 +165,3 @@ const help = (prefix) => {
 ➣ *canta ai bot*
 ➣ *grita* 
 }
-exports.help = help
